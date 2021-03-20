@@ -1,9 +1,12 @@
-# Telestion Rocketsound PSC
+# RocketSound Grundstation Gui
 
 [![Created using the @wuespace/telestion-client-cli](https://img.shields.io/badge/created%20using-%40wuespace%2Ftelestion--client--cli-%23452897)](https://github.com/TelestionTeam/telestion-client/tree/main/packages/telestion-client-cli)
 
-This Telestion PSC (_Project-Specific Client_) was bootstrapped with the
-[Telestion Client](https://github.com/TelestionTeam/telestion-client) CLI.
+This project contains the gui for the *RocketSound Groundstation*. 
+The groundstation is based on [Telestion](https://github.com/TelestionTeam) that is a modular groundstation system.
+
+This gui project was bootstrapped with the
+[Telestion Gui Client](https://github.com/TelestionTeam/telestion-client) CLI.
 
 ## Getting started
 
@@ -68,11 +71,11 @@ The project structure is like the structure created by `create-react-app` (_CRA_
 
 ## Learn More
 
-To get started with PSC Development, you can take a look at the _PSC Developer Manual_. It contains many explanations of the most important concepts, practical guides, references, and more.
+To get started with gui development, you can take a look at the _PSC Developer Manual_. It contains many explanations of the most important concepts, practical guides, references, and more.
 
 You can find the latest versions (in PDF format) in the [Documentation Repo Releases](https://github.com/TelestionTeam/telestion-docs/releases/latest).
 
-For a full API Reference of all the Telestion Client APIs, check out the documentation of the Telestion Client:
+For a full API Reference of all the Telestion Gui Client APIs, check out the documentation of the Telestion Client:
 https://telestionteam.github.io/telestion-client/
 
 To learn React, check out the [React documentation](https://reactjs.org/).
