@@ -167,7 +167,7 @@ export const amplitudeGraph: GraphWidgetProps = {
 		}
 	],
 	maxDataSamples: 20,
-	scale: 'log'
+	scale: 'auto'
 };
 
 export const velocityGraph: GraphWidgetProps = {
